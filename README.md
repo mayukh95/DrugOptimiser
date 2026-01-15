@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="MolecularDFT Logo" width="120"/>
+  <img src="assets/logo.svg" alt="MolecularDFT Logo" width="120"/>
 </p>
 
 <h1 align="center">DrugOptimiser</h1>
@@ -17,8 +17,6 @@
 </p>
 
 **From SMILES to Wavefunction: A comprehensive, interactive platform for computational drug screening.**
-
-![Banner](docs/images/molecular_editor_banner.png)
 
 ## 🚀 Overview
 **DrugOptimiser** is an advanced computational chemistry tool designed to streamline the drug screening process. It bridges the gap between rapid cheminformatics screening and high-accuracy Quantum Mechanical (DFT) calculations. 
