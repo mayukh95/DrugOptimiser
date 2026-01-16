@@ -1,0 +1,3 @@
+ # Force everything in the repo to be treated as Python for stats
+* linguist-language=Python
+

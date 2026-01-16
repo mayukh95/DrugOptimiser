@@ -1,0 +1,9 @@
+ now you have understood the whole codebase and also the notebook, in order to make it a great drug screener code how great things should be implemented? also suggest what cosmetics changes should be implemented like nimation UI/UX enhancement, darkmode, profesional looking interface so on. give me a plan
+
+think hardar make this plan more great - PART 2: UI/UX & COSMETIC ENHANCEMENTS
+
+think hardar, after DFT optimisation what kind of properties could be extraacted that is useful for drug screener,  make a new  markdown file and add that content.
+
+think hardar make this plan more great - PART 2: UI/UX & COSMETIC ENHANCEMENTS, explain in detail, with diagrams, layouts, make a new  markdown file and add that content.
+
+think hardar, elaborate, explain with diagrams  -  PART 1: CORE FUNCTIONAL ENHANCEMENTS, make a new  markdown file and add that content.
